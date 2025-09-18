@@ -2,17 +2,21 @@
 
 Um projeto simples em **HTML, CSS e JavaScript** para organizar e sortear amigos secretos de forma prática, divertida e interativa.  
 
-💻 **Status:** Concluído  
+<h2> Sobre</h2>
+<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
 
-🌐 **Deploy:** [Clique aqui para testar online](https://seu-usuario.github.io/amigo-secreto/)
+💻 **Status:** Concluído  
 
 ---
 
+
 ## 🛠 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript (ES6)
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div>
 
 ---
 
